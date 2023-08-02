@@ -10,7 +10,7 @@ From building this application, I learned that there are certain, "official" gui
 ## Installation
 This web application can be installed by downloading the source code from this repository. Once downloaded, unzip the contents to a target destination of your choice. Upload this unzipped folder into a coding editing software (such as Virtual Code Studios). To do this, open VSCode and click on the "File" tab in the upper left-hand corner of the screen. Once the code has been imported into VSCode, you can preview how the application would run by right-clicking on the "index.html" file and selecting "Open with Live Server". This will open a "demo" of sorts of the deployed application. 
 
-To deploy the application yourself, one can use the GitHub pages feature. I have gone through the trouble of deploying the application myself, which the link/URL to it can be found in the upper right-hand corner of this repository (highlighted in blue inside the brief description portion).
+To deploy the application yourself, one can use the GitHub pages feature. I have gone through the trouble of deploying the application myself, which the link/URL to it can be found in the upper right-hand corner of this repository (highlighted in blue inside the brief description portion) *OR* by clicking the deployed URL here: (https://u0914295.github.io/javascript-password-gen/)
 
 ## Usage
 The following set of screenshots illustrates how to use the application. Once the deployed application has started, the following screen will appear:
